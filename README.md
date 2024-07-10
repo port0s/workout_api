@@ -80,4 +80,6 @@ SQLAlchemy: https://docs.sqlalchemy.org/en/20/
 
 Alembic: https://alembic.sqlalchemy.org/en/latest/
 
-Fastapi-pagination: https://uriyyo-fastapi-pagination.netlify.app/
+Fastapi-pagination: https://uriyyo-fastapi-pagination.netlify.app/  
+
+Curso de FastAPI - Sincrono: https://www.youtube.com/playlist?list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP
